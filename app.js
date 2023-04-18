@@ -5,7 +5,6 @@ const arr = [
     null,
     'qwerty',
     34,
-    65,
     undefined,
     null,
     null,
